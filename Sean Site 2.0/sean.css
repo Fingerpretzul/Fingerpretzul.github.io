@@ -1,0 +1,28 @@
+body {
+    background-color: #D5BF86;
+    color: #731522;
+}
+header {
+    background-color: #3F0D12;
+    color: #F1F0CC;
+}
+h1 {
+    margin-left:   10px;
+    margin-bottom: 0;
+}
+nav {
+    background-color: #8D775F;
+}
+h2 {
+    color: #3F0D12;
+}
+p {
+    font-size: 20px;
+}
+.button {
+    background-color: #8D775F;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    margin-left: 9px;
+}
