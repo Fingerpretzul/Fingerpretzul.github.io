@@ -1,0 +1,73 @@
+body {
+    background-color: #FFECD1;
+    color: #001524;
+    margin: 0;
+}
+
+/* Body Components */
+
+header {
+    background-color: #15616D;
+    color: #FFECD1;
+    line-height: 80px;
+    width: 100%;
+}
+main {
+    padding: 2px 20px;
+    margin: 10px;
+    background-color: #FFECD1
+}
+main p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1em;
+    margin-left: 5px;
+}
+a {
+    margin: 20px;
+    text-decoration: none;
+    color: #15616D;
+}
+
+/* Buttons */
+
+button {
+    background-color: #15616D;
+    height: 75px;
+    width: 150px;
+    margin: 40px;
+}
+button a {
+    text-decoration: none;
+    color: #FFECD1;
+    font-size: 1.50em;
+}
+
+/* Headers */
+
+h1 {
+    text-indent: .5em;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 0;
+    margin: 0;
+}
+h2 {
+    margin: 20px;
+}
+
+/* Tables */
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 20px
+}
+th {
+    border: 1px solid;
+    padding: 2px 10px;
+    font-weight: bold;
+}
+td {
+    border: 1px solid;
+    padding: 2px 10px;
+}
