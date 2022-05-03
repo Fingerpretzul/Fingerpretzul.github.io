@@ -1,0 +1,118 @@
+body {
+    background-color: #FFECD1;
+    color: #062837;
+    margin: 0;
+    height: 100%;
+}
+
+
+/* Body Elements */
+
+main {
+    margin-left: 105px;
+    background-color: #FFECD1;
+    padding: 20px;
+    position: relative;
+}
+
+main ul {
+    list-style-image: url(shell.png);
+}
+
+header {
+    background-color: #15616D;
+    color: #FFECD1;
+    padding: .5em;
+    /*
+     background-position: right;
+     background-repeat: no-repeat;
+     background-image: url(images/resort1.jpeg);
+     width: 115%;
+     */
+}
+
+cite {
+    margin-left: 40px;
+}
+
+footer {
+    text-align: center;
+    margin-left: 105px;
+    background-color: #FFECD1;
+    padding: 10px;
+    position: relative;
+}
+
+
+/* Nav */
+
+nav {
+    color: #062837;
+    float: left;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px 10px 20px 10px
+}
+
+nav li {
+    padding-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+nav a:link {
+    color: #062837;
+}
+
+nav a:visited {
+    color: #001524;
+}
+
+nav a:hover {
+    font-size: 1.4em;
+    color: #15616D;
+}
+
+
+/* Headers */
+
+h1 {
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 8px;
+    font-size: 4em;
+    letter-spacing: 5px
+}
+
+h2 {
+    margin-top: 0;
+}
+
+
+/* Classes */
+
+.name {
+    color: #15616D;
+}
+
+
+/* IDs */
+
+#wrapper {
+    background-image: linear-gradient(to bottom, #C5CAB8, #15616D);
+}
+
+#tagline {
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 80px;
+    font-size: 1.5em;
+    color: #E2DBC5;
+    letter-spacing: 2px;
+}
