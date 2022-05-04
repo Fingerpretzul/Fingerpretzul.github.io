@@ -3,13 +3,14 @@ body {
     color: #062837;
     margin: 0;
     height: 100%;
+    font-family: sans-serif
 }
 
 
 /* Body Elements */
 
 main {
-    margin-left: 105px;
+    margin-left: 150px;
     background-color: #FFECD1;
     padding: 20px;
     position: relative;
@@ -43,6 +44,10 @@ footer {
     position: relative;
 }
 
+p {
+    text-indent: 2em;
+}
+
 
 /* Nav */
 
@@ -66,16 +71,22 @@ nav a {
     font-size: 1.3em;
 }
 
-nav a:link {
+nav a:hover {
+    font-size: 1.4em;
+}
+
+
+/* Anchors */
+
+a:link {
     color: #062837;
 }
 
-nav a:visited {
+a:visited {
     color: #001524;
 }
 
-nav a:hover {
-    font-size: 1.4em;
+a:hover {
     color: #15616D;
 }
 
@@ -104,6 +115,16 @@ h2 {
 
 /* IDs */
 
+#tableofcontents {
+    border: 5px inset;
+    float: right;
+    padding: 10px;
+}
+
+#tableofcontents li {
+    margin-bottom: 5px;
+}
+
 #wrapper {
     background-image: linear-gradient(to bottom, #C5CAB8, #15616D);
 }
@@ -111,7 +132,7 @@ h2 {
 #tagline {
     margin-bottom: 0;
     margin-top: 0;
-    margin-left: 80px;
+    margin-left: 100px;
     font-size: 1.5em;
     color: #E2DBC5;
     letter-spacing: 2px;
