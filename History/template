@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>History-Temp</title>
+    <meta charset="UTC-8">
+    <link rel="stylesheet" href="internet.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <H1>The Internet</H1>
+            <h3 id="tagline">Culture's Catalyst</h2>
+                <div id="headerimage"></div>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="internet.html">Home</a></li>
+                <li><a href="history.html">History</a></li>
+                <li><a href="socialmedia.html">Social Media</a></li>
+                <li><a href="politics.html">Politics</a></li>
+                <li><a href="memes.html">Memes</a></li>
+                <li><a href="funfact.html">Conspiracies</a></li>
+            </ul>
+        </nav>
+        <main>
+            <div id="tableofcontents">
+                <h2>Table of Contents</h2>
+                <ol>
+                    <li><a href="#introduction">Introduction</a></li>
+                    <li><a href="#thesis">Thesis</a></li>
+                    <li><a href="#FunFacts">Fun Facts</a></li>
+                    <li><a>Temp</a></li>
+                    <li><a>Temp</a></li>
+                </ol>
+            </div>
+            <h2 id="introduction">Introduction</h2>
+            <p>
+                I love cheese, especially chalk and cheese cheese and biscuits. Cheesy feet cream cheese cheese triangles danish fontina airedale macaroni cheese stinking bishop ricotta. Dolcelatte cream cheese pepper jack when the cheese comes out everybody's happy
+                macaroni cheese danish fontina cottage cheese pepper jack. Pecorino cheesy grin cottage cheese dolcelatte jarlsberg fondue ricotta say cheese. Airedale smelly cheese ricotta cheese and biscuits halloumi babybel cheese and biscuits manchego.
+                Feta goat melted cheese fromage frais smelly cheese halloumi airedale mascarpone. Parmesan airedale when the cheese comes out everybody's happy bavarian bergkase bavarian bergkase cow roquefort.
+            </p>
+            <p>
+                Cheese slices say cheese queso. Goat cottage cheese cheeseburger rubber cheese red leicester cheesecake babybel cheesy feet. Halloumi cheese strings halloumi caerphilly cheesecake who moved my cheese feta hard cheese. Stinking bishop danish fontina cheesecake
+                dolcelatte pecorino melted cheese cottage cheese brie. Cheesecake cheese slices gouda melted cheese cheese and wine rubber cheese emmental cut the cheese. Chalk and cheese cheddar pecorino who moved my cheese camembert de normandie say
+                cheese melted cheese.
+            </p>
+            <br>
+            <h2 id="thesis">Thesis</h2>
+            <P>
+                I love cheese, especially parmesan stinking bishop. Fromage frais cottage cheese cut the cheese swiss cream cheese cheddar cheddar rubber cheese. Cottage cheese gouda airedale fromage frais mascarpone halloumi when the cheese comes out everybody's happy
+                st. agur blue cheese. Cauliflower cheese manchego airedale manchego bavarian bergkase cheesy feet mascarpone gouda. Halloumi fondue taleggio who moved my cheese macaroni cheese mascarpone manchego port-salut. Parmesan camembert de normandie
+                paneer paneer feta croque monsieur port-salut.
+            </P>
+        </main>
+    </div>
+</body>
+
+</html>
