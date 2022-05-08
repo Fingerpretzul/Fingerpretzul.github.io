@@ -183,6 +183,11 @@ h2 {
     background: #15616D;
 }
 
+#timelineDIV {
+    height: 440px;
+    width: 100%;
+    overflow-x: auto;
+}
 /*
 #header {
     background-image: url(images/header.jpeg);
