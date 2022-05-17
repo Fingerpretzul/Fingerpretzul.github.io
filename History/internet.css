@@ -132,6 +132,11 @@ h2 {
     color: #15616D;
 }
 
+.footnote {
+    font-size: .75em;
+    margin: 5px;
+}
+
 
 /* IDs */
 
@@ -188,6 +193,7 @@ h2 {
     width: 100%;
     overflow-x: auto;
 }
+
 /*
 #header {
     background-image: url(images/header.jpeg);
