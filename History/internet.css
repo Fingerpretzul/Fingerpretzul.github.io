@@ -141,7 +141,7 @@ h2 {
 /* IDs */
 
 #tableofcontents {
-    border: 5px inset;
+    border: 5px inset #15616D;
     float: right;
     padding: 10px;
     font-size: 1.025em;
